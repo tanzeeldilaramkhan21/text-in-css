@@ -1,0 +1,178 @@
+/* font family */
+/* body{
+    font-family: cursive;
+}
+h1{
+    font-family: Arial, Verdana, sans-serif;}
+    .credits {
+    font-family: "Courier New", Courier,
+    monospace;} */
+
+    /* font size */
+/* pixels */
+/* p{
+    font-size: 106px;
+} */
+/* percentages */
+/*
+p{
+    font-size: 500%;
+} */
+/* default values */
+/* p{
+    font-size: larger;
+} */
+/* font face */
+ /* @font-face {
+    font-family: 'test';
+    src: url(./assests/font-family/VinaSans-Regular.ttf);
+ }
+   p{
+    font-family: test;
+   } */
+/* font weight */
+/* p{
+    font-weight: 900;
+} */
+/* font style */
+/* using id selector and comparing 3 styles */
+/* #normal{
+    font-style: normal;
+}
+#italic{
+    font-style: italic;
+}
+#oblique{
+    font-style: oblique;
+} */
+/* text transform */
+/* hello guys  <= lower case */
+/* HELLO GUYS  <=UPPER CASE */
+/* Hello Guys How Are You  <=Capitalize */
+/* h1{
+    text-transform: capitalize;
+} */
+/* h1{
+    text-transform: lowercase;
+} */
+/* h1{
+    text-transform: uppercase;
+} */
+/* text decoration */
+/* #none
+{
+    text-decoration: none;
+}
+#underline{
+    text-decoration: underline;
+}
+#line-through{
+    text-decoration: line-through;
+}
+#overline{
+    text-decoration: overline;
+} */
+/* line height /leading */
+/* p{
+    line-height: 100px;
+} */
+/* letter and word spacing */
+/* word-spacing */
+/* h1{
+    word-spacing: 10px;
+} */
+   /* letter-spacing */
+/* h1{
+    letter-spacing: 10px;
+} */
+/* text align */
+/* h1{
+    text-align: center;
+}
+p
+{
+    text-align: justify;
+} */
+/* vertical alignment */
+/* img{
+    vertical-align: top;
+} */
+
+/* indenting text */
+/* h1{
+    text-indent: 100px;
+} */
+/* p{
+    text-indent: 150px;
+    text-align: justify;
+} */
+/* text shadow */
+/* p{
+   background-color: #eeeeee; 
+   color: #666666;
+   text-shadow: 1px 1px 1px #000000;
+} */
+/* first letter or first line */
+/* p::first-letter{
+    color: red;
+}
+p::first-line{
+    color: blue;
+} */
+/* style links */
+/* a:link{
+    color: green;
+}
+a:visited{
+    color: red;
+} */
+/* responding to user */
+ /* hover */
+ /* input.btn:hover{
+    background-color: wheat;
+ } 
+ input.btn:active{
+    background-color: red;
+ } */
+/* input.btn:focus{
+    background-color: blue;
+}
+
+input.textBox:focus{
+    background-color: black;
+    color: white;
+} */
+/* attribute selector */
+/* existance */
+/* h1[name]{
+    color: red;
+} */
+/* equality */
+/* h1[test="hi"]{
+    color: red;
+} */
+/* space */
+/* h1[test~=everyone]{
+    color: pink;
+} */
+/* prefix */
+/* h1[test^=h]{
+    color: red;
+} */
+/* substring */
+/* h1[test*="ll"]{
+    color: red;
+} */
+/* suffix */
+h1[test="l"]{
+    color: red;
+}
+
+
+
+
+
+
+
+
+
